@@ -1,2 +1,18 @@
-# DSA-Solutions
-My Data Structures and Algorithms solutions in C++ and Java for placement preparation.
+# DSA Solutions
+
+Welcome to my Data Structures and Algorithms repository.
+
+## Language
+- Java
+
+## Topics
+- Arrays
+- Strings
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+I regularly upload my Java DSA solutions for placement preparation.
